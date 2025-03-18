@@ -90,7 +90,7 @@
 
 ### Wolfram
 
-![pic1](img\example.png)
+![pic1](img/example.png)
 
 ### code
 
@@ -112,7 +112,7 @@
 
 ### Wolfram
 
-![pic1](img\ex2.png)
+![pic1](img/ex2.png)
 
 ### code
 
