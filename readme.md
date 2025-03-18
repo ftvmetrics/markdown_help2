@@ -67,12 +67,17 @@
 ## картинка
 
 картинка всегда даётся по ссылке
+либо в файловой системе:
 
 `![pic1](img\ex1.jpg)` -> ![pic1](img/1a1.png)
 
 `<img align = 'center' src = 'img\1a1.png' />` -> <img align = 'center' src = 'img\1a1.png' />
 
 я пользуюсь 2м вариантом потому что он по центру текста по высоте и больше похоже на wolfram
+
+ссылка на картинку может быть внешняя:
+
+`![pic](https://avatars.githubusercontent.com/u/185954962?v=4)` -> ![pic](https://avatars.githubusercontent.com/u/185954962?v=4)
 
 ## список
 
