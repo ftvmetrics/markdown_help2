@@ -68,7 +68,7 @@
 
 картинка всегда даётся по ссылке
 
-`![pic1](img\ex1.jpg)` -> ![pic1](img\1a1.png)
+`![pic1](img\ex1.jpg)` -> ![pic1](img/1a1.png)
 
 `<img align = 'center' src = 'img\1a1.png' />` -> <img align = 'center' src = 'img\1a1.png' />
 
